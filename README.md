@@ -1,5 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 ### Welcome 👋
 🌱 I’m currently learning Computer Graphics and Android
+
+💌E-mail✉️
+jun031@gachon.ac.kr
+junjun031@naver.com
 
 <!--
 **ShinJunYoung/ShinJunYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
