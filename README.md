@@ -1,5 +1,5 @@
 ### Welcome 👋
-🌱 I’m currently learning Computer Graphics and Android
+🌱 I’m currently learning Android and Javascript.
 
 💌E-mail✉️
 jun031@gachon.ac.kr
