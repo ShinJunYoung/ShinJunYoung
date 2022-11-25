@@ -1,5 +1,5 @@
 ### Welcome 👋
-🌱 I’m currently learning Android and Javascript.
+🌱 I’m currently learning Android and Javascript(JS)
 
 💌E-mail📧 <br>
 jun031@gachon.ac.kr<br>junjun031@naver.com
