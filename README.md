@@ -2,7 +2,8 @@
 🌱 I’m currently learning Android and Javascript(JS)
 
 💌E-mail📧 <br>
-jun031@gachon.ac.kr<br>junjun031@naver.com
+jun031@gachon.ac.kr<br>junjun031@naver.com<br>
+
 
 <!--
 **ShinJunYoung/ShinJunYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
