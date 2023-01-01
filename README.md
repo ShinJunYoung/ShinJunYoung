@@ -1,8 +1,8 @@
 ### Welcome 👋
-🌱 I’m currently learning Android and Javascript(JS)
+🌱 I’m currently learning Android and Javascript(JS).
 
 💌E-mail📧 <br>
-jun031@gachon.ac.kr<br>junjun031@naver.com<br><br>
+jun031@gachon.ac.kr<br>
 
 
 <!--
