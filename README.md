@@ -2,6 +2,7 @@
 🌱 I’m currently learning Android and Javascript(JS).
 
 💌E-mail📧 <br>
+andregray5929@gamil.com<br>
 jun031@gachon.ac.kr<br>
 
 
